@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Aula05"
+    "\\Aula05",
+    "\\Aula05\\Views",
+    "\\Aula05\\Views\\Order"
   ],
+  "SelectedNode": "\\Aula05\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
